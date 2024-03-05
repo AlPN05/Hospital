@@ -1,6 +1,7 @@
 package clases;
 
 public class Hospital {
+    //Atributos
     String  nombreDelHospital;
     String direccion;
 
